@@ -1,0 +1,6 @@
+order_id,product_line,units,unit_price,total
+1,Electronics,5,99.99,499.95
+2,Electronics,3,129.99,389.97
+3,Furniture,10,299.50,2995.00
+4,Furniture,2,499.00,998.00
+5,Clothing,20,19.99,399.80
