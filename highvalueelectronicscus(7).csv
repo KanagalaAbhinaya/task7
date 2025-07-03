@@ -1,0 +1,3 @@
+customer_id,customer_name,city,total_electronics_spend,total_orders
+1,"Alice Smith","New York",7400.00,6
+2,"Bob Johnson","Los Angeles",2300.00,3
