@@ -1,0 +1,6 @@
+product_id,product_name,category,price
+101,"Laptop X",Electronics,1200.00
+102,"Smartphone Y",Electronics,800.00
+103,"Desk Chair",Furniture,250.00
+104,"Monitor Z",Electronics,300.00
+105,"Coffee Maker",Appliances,100.00
